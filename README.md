@@ -27,7 +27,8 @@ ReserveCalifornia is especially likely to change so you might find this breaks q
       virtualenv park_env
       park_env/bin/pip install -r requirements.txt
       park_env/bin/python checker.py
-6. If the steps above worked, you are ready to run!
+6. You'll need to add your own Slack webhook URL for the slack notifications to work
+7. If the steps above worked, you are ready to run!
 
 ### Running the script
 7. See all the parks supported:
